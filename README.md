@@ -15,11 +15,6 @@ My commitment to staying ahead in emerging technologies keeps me pushing the bou
 
 Let's connect and embark on the next exciting chapter together! 🌟"
 
-## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman-upadhyay-36a10b282/)
-- Email: [your.email@example.com](mailto:amanupadhyay0495@gmail.com)
-
-
 
 ### languages
 
@@ -34,10 +29,10 @@ Let's connect and embark on the next exciting chapter together! 🌟"
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## Get in Touch
 ### 💬 Social
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-upadhyay-36a10b282/) \
+[![Email](https://img.shields.io/badge/email-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:amanupadhyay0495@gmail.com)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jarvis-404/count.svg" />
