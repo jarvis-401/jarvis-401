@@ -16,8 +16,8 @@ My commitment to staying ahead in emerging technologies keeps me pushing the bou
 Let's connect and embark on the next exciting chapter together! 🌟"
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aman-upadhyay-36a10b282/)
+- Email: [your.email@example.com](mailto:amanupadhyay0495@gmail.com)
 
 
 
