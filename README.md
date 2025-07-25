@@ -1,18 +1,5 @@
 ### Hi there, I'm Jarvis-401 👋,
 #### Cloud Engineer (Infrastructure) / Blockchain Devops
-## About Me
-
-"Hey there! 👋
-
-I'm a DevOps Engineer specializing in blockchain technologies with over 5 years of experience architecting scalable, secure, and high-performance infrastructures across multi-cloud environments. ☁️🔗
-
-From deploying Ethereum staking operators using Golang to leading GitOps implementations across distributed teams, I've consistently delivered solutions that blend reliability, security, and automation.
-
-My toolkit includes Kubernetes, Terraform, Docker, and Helm – all backed by a passion for improving operational efficiency through robust CI/CD pipelines, secure access controls, and zero-downtime deployments. 🔐⚙️
-
-Whether it’s designing resilient multi-cloud setups, managing validator infrastructure, or engineering cost-effective blockchain solutions, I thrive on solving complex infrastructure challenges at scale. 💡💪
-
-Let's connect and build something extraordinary together in the world of Web3 and Cloud Infrastructure! 🚀"
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building secure and scalable blockchain infrastructure, writing Kubernetes Operators in Golang, and leading SRE initiatives at Tokamak Network.<br><br>🤝 I’m looking to collaborate on<br>Cloud-native blockchain deployments, cost optimization strategies, and Zero Trust security implementations.<br><br>🤔 I’m looking for help with<br>Exploring advanced ZK and L2 infrastructure scaling techniques.<br><br>🌱 I’m currently learning<br>Rust, Cosmos SDK, and advanced Kubernetes Operator patterns.<br><br>💬 Ask me about<br>DevOps for Web3, GitOps, Ethereum staking infrastructure, multi-cloud automation, and cost monitoring in Kubernetes.<br><br>⚡ Fun fact<br>I once reduced cloud costs by 35% in production without sacrificing performance—and still had time to automate my morning coffee alerts using Prometheus & Grafana! ☕️📊
