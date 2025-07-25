@@ -1,69 +1,43 @@
 ### Hi there, I'm Jarvis-401 👋,
 #### Cloud Engineer (Infrastructure) / Blockchain Devops
 ## About Me
+
 "Hey there! 👋
 
-I'm a seasoned DevOps Engineer and enthusiastic about Web3, with over 5 years of hands-on experience crafting and deploying cutting-edge applications across diverse cloud environments. 💻
+I'm a DevOps Engineer specializing in blockchain technologies with over 5 years of experience architecting scalable, secure, and high-performance infrastructures across multi-cloud environments. ☁️🔗
 
-My journey has been all about innovation, from architecting highly scalable blockchain solutions to orchestrating seamless cloud migrations. With a keen eye for detail and a passion for optimizing processes, I've led initiatives to automate CI/CD pipelines, slashing deployment times and boosting efficiency. 🚀
+From deploying Ethereum staking operators using Golang to leading GitOps implementations across distributed teams, I've consistently delivered solutions that blend reliability, security, and automation.
 
-My expertise extends to the intricate realm of security, where I've championed robust monitoring and access control measures to safeguard mission-critical systems. 🔒
+My toolkit includes Kubernetes, Terraform, Docker, and Helm – all backed by a passion for improving operational efficiency through robust CI/CD pipelines, secure access controls, and zero-downtime deployments. 🔐⚙️
 
-Whether it's designing multi-regional clusters for peak performance or devising disaster recovery strategies for resilience, I thrive on tackling complex challenges head-on. 💼
+Whether it’s designing resilient multi-cloud setups, managing validator infrastructure, or engineering cost-effective blockchain solutions, I thrive on solving complex infrastructure challenges at scale. 💡💪
 
-My commitment to staying ahead in emerging technologies keeps me pushing the boundaries in the ever-evolving landscape of cloud infrastructure. ✨
+Let's connect and build something extraordinary together in the world of Web3 and Cloud Infrastructure! 🚀"
 
-Let's connect and embark on the next exciting chapter together! 🌟"
+# 💫 About Me:
+🔭 I’m currently working on<br>Building secure and scalable blockchain infrastructure, writing Kubernetes Operators in Golang, and leading SRE initiatives at Tokamak Network.<br><br>🤝 I’m looking to collaborate on<br>Cloud-native blockchain deployments, cost optimization strategies, and Zero Trust security implementations.<br><br>🤔 I’m looking for help with<br>Exploring advanced ZK and L2 infrastructure scaling techniques.<br><br>🌱 I’m currently learning<br>Rust, Cosmos SDK, and advanced Kubernetes Operator patterns.<br><br>💬 Ask me about<br>DevOps for Web3, GitOps, Ethereum staking infrastructure, multi-cloud automation, and cost monitoring in Kubernetes.<br><br>⚡ Fun fact<br>I once reduced cloud costs by 35% in production without sacrificing performance—and still had time to automate my morning coffee alerts using Prometheus & Grafana! ☕️📊
 
 
-### languages
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-j-aa303a316/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Siddharth Jain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthjainn07@gmail.com) 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jarvis - 401&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jarvis - 401&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis - 401&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Cloud DevOps
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jarvis - 401&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Get in Touch
-### 💬 Social
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-upadhyay-36a10b282/) \
-[![Email](https://img.shields.io/badge/email-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:amanupadhyay0495@gmail.com)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jarvis-404/count.svg" />
-</p>
-<!--
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jarvis - 401&limit=5&theme=panda&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
+---
+[![](https://visitcount.itsvg.in/api?id=jarvis - 401&icon=2&color=7)](https://visitcount.itsvg.in)
 
-### 🎓 Education
-
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-<!--
-**jarvis-404/jarvis-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
